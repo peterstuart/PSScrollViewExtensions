@@ -1,0 +1,14 @@
+PODS:
+  - PSScrollViewExtensions (0.1.0)
+
+DEPENDENCIES:
+  - PSScrollViewExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  PSScrollViewExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PSScrollViewExtensions: adec85fb8ec9a3fa697f064fd05d5b3144fa189b
+
+COCOAPODS: 0.36.4
